@@ -1,4 +1,4 @@
-<img style="height: 320px;width: 100%; text-align: center" src="https://github.com/atiq-ur/atiq-ur/blob/masterimages/Atiqur%20rahman.png" type="image">
+<img style="height: 320px;width: 100%; text-align: center" src="https://github.com/atiq-ur/atiq-ur/blob/master/images/Atiqur%20rahman.png" type="image">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
 
