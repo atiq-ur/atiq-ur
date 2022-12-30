@@ -6,7 +6,9 @@
     <h1> Hi there, I’m Atiqur Rahman👋<a href="#"></a></h1>
   </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+Developer;VueJs+Developer+;Flutter+Developer;WordPress+Plugin+Developer;Python+Developer;Researcher)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+Developer;VueJs+Developer+;Flutter+Developer;WordPress+Plugin+Developer;Python+Developer;Researcher)](https://git.io/typing-svg)
+  </div>
 
 ### I'm a Innovative and deadline-driven Software Engineer !
 
