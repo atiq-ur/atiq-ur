@@ -1,4 +1,7 @@
-[//]: # (<img style="height: 300px;width: 1057px" src="https://github.com/atiq-ur/atiq-ur/blob/master/Atiqur%20rahman.png" type="image">)
+<p align="center">
+  <img style="height: 300px;width: 1057px" src="https://github.com/atiq-ur/atiq-ur/blob/master/Atiqur%20rahman.png" type="image" />
+</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
 
@@ -137,3 +140,11 @@
   <img src="https://github.com/atiq-ur/atiq-ur/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
+
+## 📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=atiq-ur&show_icons=true&theme=gotham" alt="Atiqur Rahman | Stats" />
+
+
+[//]: # (Connect with me and portfolio link)
+
