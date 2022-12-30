@@ -123,6 +123,7 @@
 <a href="https://www.linkedin.com/in/atiq-ur/"><img src="https://img.shields.io/badge/-Atiqur%20Rahman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:atiq.misterrahman@gmail.com"><img src="https://img.shields.io/badge/-atiq.misterrahman@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/oii_babu/"><img src="https://img.shields.io/badge/-@atiq-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/oii_babu/"><img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=blueviolet&logo=appveyor&logoColor=white"/></a>
 <br>
 <a href="https://leetcode.com/atiq-ur/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=atiq-ur&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fatiq-ur&logo=leetcode&logoColor=yellow"/></a>
  </p>
