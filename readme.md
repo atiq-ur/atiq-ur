@@ -129,4 +129,10 @@
 | Stats />                                                                                            | Streak />                                                                                                                                                                               | Languages />                                                                                                     
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atiq-ur&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=atiq-ur&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atiq-ur&theme=gruvbox) |
- 
+
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/atiq-ur/atiq-ur/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
