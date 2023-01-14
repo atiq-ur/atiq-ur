@@ -48,20 +48,15 @@
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100">
     </td>
-
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="100">
     </td>
-
     <td align='center' width="150">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
     </td>
-    
-
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" width="100">
     </td>
-
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  width="100">
     </td>
@@ -72,15 +67,12 @@
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="100">
     </td>
-
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="100">
     </td>
-
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="100">
     </td>
-
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  width="100">
     </td>
